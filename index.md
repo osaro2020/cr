@@ -24,6 +24,7 @@
   <body>
 
     <h1>Claraz' Recipes</h1>
+    
 
     <div class="card mb-3 shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 540px;">
   <div class="row no-gutters">
@@ -33,7 +34,7 @@
     <div class="col-md-8">
       <div class="card-body">
         <h4 class="card-title">Cookbooks</h4>
-        <p class="card-text">See Our Cookbooks</p>
+        <!-- <p class="card-text">See Our Cookbooks</p> -->
         
       </div>
     </div>
@@ -48,7 +49,7 @@
     <div class="col-md-8">
       <div class="card-body">
         <h4 class="card-title">Website</h4>
-        <p class="card-text">Visit Our Website</p>
+        <!-- <p class="card-text">Visit Our Website</p> -->
         
       </div>
     </div>
@@ -63,7 +64,7 @@
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">About Us</h5>
-        <p class="card-text">Learn More About Us</p>
+        <!-- <p class="card-text">Learn More About Us</p> -->
       </div>
     </div>
   </div>
@@ -77,7 +78,7 @@
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">Contact Us</h5>
-        <p class="card-text">Have Any Questions?</p>
+        <!-- <p class="card-text">Have Any Questions?</p> -->
       </div>
     </div>
   </div>
