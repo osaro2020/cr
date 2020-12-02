@@ -24,6 +24,16 @@
   <body>
 
     <h1>Claraz' Recipes</h1>
+
+    <div class="card mb-3 bg-dark text-white shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 540px;">
+      <img src="img/hp-cookbook-img.png" class="card-img" alt="cookbook-image">
+      <div class="card-img-overlay">
+        <h5 class="card-title">Cookbooks</h5>
+        
+      
+      </div>
+    </div>
+
     
 
     <div class="card mb-3 shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 540px;">
