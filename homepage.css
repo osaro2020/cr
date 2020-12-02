@@ -33,6 +33,9 @@ h1{
 .card-img{
     height: 199px;
     width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
