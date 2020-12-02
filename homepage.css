@@ -1,0 +1,32 @@
+body{
+    background-color: #fff3e2;
+}
+
+a {
+    color: inherit;
+}
+
+a:hover{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+h1{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 70px;
+    text-align: center;
+    padding-bottom: 4%;
+}
+
+.card{
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    font-family: 'Krona One', sans-serif;
+}
+
+.card-img{
+    height: 86px;
+    width: 130px;
+
+}
