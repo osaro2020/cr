@@ -1,6 +1,6 @@
 body{
     background-color: #fff3e2;
-    text-align: center;
+    /* text-align: center; */
 }
 
 a {
@@ -26,13 +26,22 @@ h1{
     font-family: 'Krona One', sans-serif;
 }
 
+.card-title{
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 /* .card-body{
     margin-left: 10%;
 } */
 
 .card-img{
-    height: 199px;
-    width: 300px;
+    height: 331px;
+    width: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
