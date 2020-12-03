@@ -28,7 +28,7 @@
     <a href="#"><div class="card mb-3 bg-dark text-white shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 540px;">
       <img src="img/hp-cookbook-img.png" class="card-img" alt="cookbook-image">
       <div class="card-img-overlay">
-        <h5 class="card-title">Cookbooks</h5>
+        <h2 class="card-title">Cookbooks</h2>
         
       
       </div>
@@ -37,7 +37,7 @@
     <a href="#"><div class="card mb-3 bg-dark text-white shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 540px;">
       <img src="img/hp-website-img.png" class="card-img" alt="website-image">
       <div class="card-img-overlay">
-        <h5 class="card-title">Website</h5>
+        <h2 class="card-title">Website</h2>
         
       
       </div>
@@ -46,7 +46,7 @@
     <a href="#"><div class="card mb-3 bg-dark text-white shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 540px;">
       <img src="img/hp-about-img.png" class="card-img" alt="about-image">
       <div class="card-img-overlay">
-        <h5 class="card-title">About</h5>
+        <h2 class="card-title">About</h2>
         
       
       </div>
@@ -55,7 +55,7 @@
     <a href="#"><div class="card mb-3 bg-dark text-white shadow-lg p-3 mb-5 bg-white rounded" style="max-width: 540px;">
       <img src="img/hp-contact-img.png" class="card-img" alt="contact-image">
       <div class="card-img-overlay">
-        <h5 class="card-title">Contact Us</h5>
+        <h2 class="card-title">Contact Us</h2>
         
       
       </div>
